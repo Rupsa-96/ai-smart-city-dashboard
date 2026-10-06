@@ -141,8 +141,8 @@ Browser
 
 ```bash
 # 1. Clone
-git clone https://github.com/manik-dey-89/ai-smart-city.git
-cd ai-smart-city
+git clone https://github.com/Rupsa-96/ai-smart-city-dashboard.git
+cd ai-smart-city-dashboard
 
 # 2. Configure backend
 cp backend/.env.example backend/.env
@@ -430,4 +430,4 @@ When an admin creates an alert in the **Alert Command Center**:
 
 ## 📄 License
 
-MIT © 2025 [Manik Dey](https://github.com/manik-dey-89)
+MIT © 2025 [Rupsa](https://github.com/Rupsa-96)
